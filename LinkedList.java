@@ -2,7 +2,7 @@ package com.company;
 
 import javafx.scene.Node;
 
-public class Main {
+public class LinkedList {
 
     public static void main(String[] args) {
 
